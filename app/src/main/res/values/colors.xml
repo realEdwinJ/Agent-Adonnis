@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#6750A4</color>
+    <color name="alarm_background">#FF1A1A2E</color>
+    <color name="alarm_accent">#FFE94560</color>
+</resources>

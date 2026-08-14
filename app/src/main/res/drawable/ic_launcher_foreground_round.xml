@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized brain/chat icon for the AI assistant -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,60c0,-11 8.3,-18 18,-18c9.7,0 18,7 18,18c0,6.6 -3.2,12.5 -8,16.2V82c0,2.2 -1.8,4 -4,4H52c-2.2,0 -4,-1.8 -4,-4v-5.8c-4.8,-3.7 -8,-9.6 -8,-16.2z" />
+    <!-- Chat bubble dots -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M46,56m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M54,56m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M62,56m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>

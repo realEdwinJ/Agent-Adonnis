@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme (overridden by Compose Material 3) -->
+    <style name="Theme.Adonnis" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Alarm theme (full-screen, black background, no chrome) -->
+    <style name="Theme.Adonnis.Alarm" parent="Theme.Adonnis">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/alarm_background</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>
